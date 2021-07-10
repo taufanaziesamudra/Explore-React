@@ -1,0 +1,48 @@
+Pengenalan ReactJS #1 ReactJS Tutorial
+Simple Component #2 ReactJS Tutorial
+Add React To existing Project #3 ReactJS Tutorial
+Membuat Project React dengan create react app #4 ReactJS Tutorial
+StateLess Component & StateFul Component #5 ReactJS Tutorial
+Dynamic component menggunakan props #6 ReactJS Tutorial
+Update Parent oleh child component #7 ReactJS Tutorial
+LifeCycle Component Part 1 #8-1 ReactJS Tutorial
+LifeCycle Component Part 2 #8-2 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (GET) Part 1 - #9-1 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (GET) Part 2 - #9-2 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (FAKE API) Part 3 - #9-3 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (DELETE) Part 4 - #9-4 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (POST) Part 5 - #9-5 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (POST) Part 6 - #9-6 ReactJS Tutorial
+Interaksi dengan Back-End, Pemanggilan API (PUT) Part 7 - #9-7 ReactJS Tutorial
+Pengenalan dan Cara Menginstall React Router (Routing Part 1) - #10 ReactJS Tutorial
+Berpindah antar halaman dengan React Router (Routing Part 2) #11 ReactJS Tutorial
+Merapikan struktur Folder dan Rename BrowserRouter (Routing 3) - #12 ReactJS Tutorial
+Mengirimkan params ke halaman detail React Router - #13 ReactJS Tutorial
+Pengenalan State Management Menggunakan Redux atau Context - #14 ReactJS Tutorial
+Memahami konsep Redux (create Store & Reducers) Redux Part 1 - #15 ReactJS Tutorial
+Memahami konsep Redux (Dispatch & Subscription) Redux Part 2 - #16 ReactJS Tutorial
+Penerapan Redux Pada React App (Setup, createStore, Reducer) #17 - ReactJS Tutorial
+Penerapan Redux pada React App (Provider, Connect) Redux Part 4 - #18 ReactJS Tutorial
+Penerapan Redux pada ReactApp (Pemisahan Reducer) Redux Part 5 - #19 ReactJS Tutorial
+State Management dengan Context API (createContext, Provider) P-1 - #20 ReactJS Tutorial
+State Management dengan Context API (Consumer) P-2 - #21 ReactJS Tutorial
+Refactoring Context API dengan HOC - Context Part 3 - #22 ReactJS Tutorial [Indonesia]
+Refactoring Context API dengan HOC - Context Part 4 - #23 ReactJS Tutorial [Indonesia]
+Global API Services (GET) - Part 1 - #24 ReactJS Tutorial [Indonesia]
+Global API Services (POST) - Part 2 - #25 ReactJS Tutorial [Indonesia]
+Global API Services (PUT & DELETE) - Part 3 - #26 ReactJS Tutorial [Indonesia]
+React Hooks - Pengenalan dan Implementasi - Part 1   #27 ReactJS Tutorial [Indonesia]
+React Hooks Side Effect atau LifeCycle Hooks Part 2 #28 ReactJS Tutorial [Indonesia]
+Membuat Project Firebase - #1 ReactJS-Firebase Tutorial [Indonesia]
+Integrasi Firebase dengan Project ReactJS (Atomic Design) - #2 ReactJS-Firebase Tutorial [Indonesia]
+Proses Registrasi _ Sign Up menggunakan Firebase - #3 ReactJS-Firebase Tutorial [Indonesia]
+Setup Redux Pada Project - #4 ReactJS-Firebase Tutorial [Indonesia]
+Setup Redux Thunk Pada Project Part 1 - #5 ReactJS-Firebase Tutorial [Indonesia]
+Setup Redux Thunk Pada Project Part 2 - #5 ReactJS-Firebase Tutorial [Indonesia]
+Login dengan menggunakan Firebase - #6 ReactJS-Firebase Tutorial [Indonesia]
+Mengenal CallBack, Promise dan Async _ Await pada Javascript [Javascript Tutorial] #1
+POST _ CREATE ke database Firebase (CRUD) - #7 ReactJS-Firebase Tutorial [Indonesia]
+GET _ READ database Firebase + React JS LocalStorage - #8 ReactJS-Firebase Tutorial [Indonesia]
+PUT _ UPDATE Database Firebase - #9 ReactJS-Firebase Tutorial [Indonesia]
+DELETE Database Firebase - #10 ReactJS-Firebase Tutorial [Indonesia]
+Cara Setup Eslint di Javascript, ReactJS dan React Native

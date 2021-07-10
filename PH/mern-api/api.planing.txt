@@ -1,0 +1,16 @@
+Standar API
+
+{root.api}/v1
+SAMPLE
+mern-api.ph.com
+
+Authentication
+
+[1] - Login
+[2] - Register
+
+GROUP: BLOG
+[1] - Create Blog Post
+[2] - Get Blog Post
+[3] - Update Blog Post
+[4] - Delete Blog Post

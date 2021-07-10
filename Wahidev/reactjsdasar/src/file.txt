@@ -1,0 +1,9 @@
+React JS Dasar Bahasa Indonesia _ 1. Instalasi
+React JS Dasar Bahasa Indonesia _ 2. Mengenal Component
+React JS Dasar Bahasa Indonesia _ 3. Mengenal Variabel
+React JS Dasar Bahasa Indonesia _ 4. State dan Props
+React JS Dasar Bahasa Indonesia _ 5. Map, Filter, dan Reduce
+React JS Dasar Bahasa Indonesia _ 6. Lifecycle Component
+React JS Dasar Bahasa Indonesia _ 7. CRUD Desain Tampilan
+React JS Dasar Bahasa Indonesia _ 8. CRUD Create dan Read Data
+React JS Dasar Bahasa Indonesia _ 9. CRUD Update Data

@@ -1,0 +1,19 @@
+00 React.js Tutorial - Introduction to React.js
+01 React.js Tutorial - JSX
+02 React.js Tutorial - React 
+03 React.js Tutorial - Props
+04 React.js Tutorial - Props pada Stateless Component
+05 React.js Tutorial - Apa itu State
+06 React.js Tutorial - Handling Event pada React.js
+07 React.js Tutorial - Handling Event pada React.js (Part 2)
+08 React.js Tutorial - Handling Event pada React.js (Part 3) Form Select dan Radio
+09 React.js Tutorial - Cara Koneksi API
+10 React.js Tutorial - Conditional Rendering
+11 React.js Tutorial - Mencegah Form Pindah Halaman
+12 React.js Tutorial - Cara Deploy Aplikasi React.js Menggunakan Netlify
+13 React.js Tutorial - Menggunakan Environment Variabel
+14 React js Tutorial - Membuat Video Streaming Menggunakan React WebRTC
+15 React js Tutorial - Styling Menggunakan SASS_SCSS di React.js
+17 React js Tutorial - Membuat State Menggunakan Hooks useState
+18 Reactjs Tutorial - Belajar Hooks useEffect
+19 Reactjs Tutorial - Pengenalan React Router
